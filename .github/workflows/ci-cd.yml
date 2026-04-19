@@ -20,7 +20,7 @@ on:
 env:
   AWS_REGION: ap-south-1
   ECR_REPOSITORY: my-cicd-app
-  ECS_SERVICE: my-cicd-app-task-definition-service
+  ECS_SERVICE: my-cicd-app-service
   ECS_CLUSTER: my-cicd-app-cluster
   CONTAINER_NAME: my-cicd-app
   TASK_DEFINITION: my-cicd-app-task-definition
