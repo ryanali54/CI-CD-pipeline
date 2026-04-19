@@ -19,7 +19,7 @@ on:
         - debug
 env:
   AWS_REGION: ap-south-1
-  ECR_REPOSITORY: python-demo-webapp
+  ECR_REPOSITORY: my-cicd-app
   ECS_SERVICE: my-cicd-app-task-definition-service
   ECS_CLUSTER: my-cicd-app-cluster
   CONTAINER_NAME: my-cicd-app
