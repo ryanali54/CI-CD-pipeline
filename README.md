@@ -15,12 +15,7 @@ The entire infrastructure is provisioned using Terraform, ensuring reproducibili
 
 ## 🏗️ Architecture Diagram
 ```
-Developer → GitHub Repo → GitHub Actions CI/CD
-        → Lint + Tests (flake8, pytest)
-        → Build Docker Image
-        → Push to AWS ECR
-        → Deploy to ECS Fargate
-        → Application Load Balancer → End Users
+[View on Eraser![](https://app.eraser.io/workspace/EXlevfy43ppIsCm7tEzO/preview?diagram=wLKjQ6sd2xF7a1pMJ2WI&type=embed)](https://app.eraser.io/workspace/EXlevfy43ppIsCm7tEzO?diagram=wLKjQ6sd2xF7a1pMJ2WI)
 ```
 
 ---
