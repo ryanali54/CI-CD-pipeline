@@ -15,8 +15,7 @@ The entire infrastructure is provisioned using Terraform, ensuring reproducibili
 
 ## 🏗️ Architecture Diagram
 
-![(https://app.eraser.io/workspace/EXlevfy43ppIsCm7tEzO/preview?diagram=wLKjQ6sd2xF7a1pMJ2WI&type=embed)](https://app.eraser.io/workspace/EXlevfy43ppIsCm7tEzO?diagram=wLKjQ6sd2xF7a1pMJ2WI)
-
+[View on Eraser![](https://app.eraser.io/workspace/EXlevfy43ppIsCm7tEzO/preview?figure=K5iSpU9lTnMEMChwnZfyi&type=embed)](https://app.eraser.io/workspace/EXlevfy43ppIsCm7tEzO?figure=K5iSpU9lTnMEMChwnZfyi)
 
 ---
 
